@@ -1,0 +1,137 @@
+body {
+    background-color: #ffffff;
+
+}
+
+.container {
+    background-color: #555555;
+    width: 229px;
+    height: 406px;
+    margin: auto;
+}
+
+
+.profile--pic {
+    width: 140px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-bottom: -25px;
+}
+
+.intro-info--container {
+    background-color: #24282E;
+    margin-left: 45px;
+    width: 140px;
+    height: 220px;
+}
+
+.intro--name {
+    font-family: "Inter", sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: -0.05em;
+    margin: 20px;
+    width: 200px;
+    padding-top: 10px;
+}
+
+.job--role {
+    font-family: "Inter", sans-serif;
+    color: #ffffff;
+    font-size: 8px;
+    font-weight: lighter;
+    padding-left: 30px;
+    margin-top: -15px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button--container {
+    display: flex;
+}
+
+.email--btn {
+    font-family: "Inter", sans-serif;
+    font-size: 7px;
+    margin-left: 15px;
+    border: none;
+    border-radius: 2px;
+    height: 18px;
+    width: 50px;
+}
+
+.email--logo {
+    width: 11px;
+    height: 9px;
+    padding-right: 2px;
+}
+
+.linkedin--btn {
+    font-family: "Inter", sans-serif;
+    font-size: 7px;
+    margin-left: 10px;
+    background-color: #2968AF;
+    color: #ffffff;
+    border: none;
+    border-radius: 2px;
+
+}
+
+.linkedin--logo {
+    width: 11px;
+    height: 9px;
+    padding-right: 2px;
+}
+
+.about-interests--titles {
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+p {
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-size: 6px;
+    margin-left: 20px;
+    margin-right: 20px;
+    letter-spacing: 0.02em;
+}
+
+ul {
+    color: #ffffff;
+    font-size: 6px;
+    margin-left: -13px;
+    font-family: "Inter", sans-serif;
+}
+
+li {
+    margin-bottom: 2px;
+}
+
+ul li::marker {
+    color: #a3a3a3;
+    font-size: larger;
+}
+
+.footer {
+    background-color: #181D2B;
+    position: relative;
+    margin: auto;
+    width: 140px;
+    height: 22px;
+    margin-top: 22px;
+}
+
+.footer--icons {
+    margin-left: 30px;
+    margin-top: 3px;
+}
