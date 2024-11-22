@@ -10,11 +10,11 @@ A professional personal portfolio showcasing my web development projects, skills
 - CSS
 - JavaScript
 
-| Project              | Link                                                                    |
-| -------------------- | ----------------------------------------------------------------------- |
-| Static Web Page      | https://github.com/JJScar/react-projects/tree/main/Static-Page          |
-| Static Business Card | https://github.com/JJScar/react-projects/tree/main/Static-Business-Card |
-| Travel Journal       | https://github.com/JJScar/react-projects/tree/main/Travel-Journal-Props |
+| Project              | Description                                                        | Link                                                                    |
+| -------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| Static Web Page      | Building a static webpage using react!                             | https://github.com/JJScar/react-projects/tree/main/Static-Page          |
+| Static Business Card | Another look at building a static page, this time a business card! | https://github.com/JJScar/react-projects/tree/main/Static-Business-Card |
+| Travel Journal       | Learning more about props with React, building a travel journal    | https://github.com/JJScar/react-projects/tree/main/Travel-Journal-Props |
 
 ## Contact
 - Email: [jjsonchain@gmail.com]
