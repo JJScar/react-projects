@@ -14,6 +14,7 @@ A professional personal portfolio showcasing my web development projects, skills
 | -------------------- | ----------------------------------------------------------------------- |
 | Static Web Page      | https://github.com/JJScar/react-projects/tree/main/Static-Page          |
 | Static Business Card | https://github.com/JJScar/react-projects/tree/main/Static-Business-Card |
+| Travel Journal       | https://github.com/JJScar/react-projects/tree/main/Travel-Journal-Props |
 
 ## Contact
 - Email: [jjsonchain@gmail.com]
