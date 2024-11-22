@@ -1,0 +1,106 @@
+* {
+    font-family: 'Inter', Arial;
+    letter-spacing: -0.03em;
+}
+
+body {
+    width: 612px;
+    height: 792px;
+    margin: 0 auto;
+}
+
+.header--class {
+    background-color: #FF6666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.header--title {
+    color: azure;
+    margin-left: 7px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.globe--icon {
+    width: 36px;
+    height: 36px;
+}
+
+.entry--container {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.entry--content {
+    width: 480px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.main--image--container {
+    width: 130px;
+    height: 160px;
+    margin-right: 100px;
+}
+
+.city--image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+
+.marker--image {
+    width: 19px;
+    height: 19px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.country--name {
+    font-weight: 100;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -22px;
+    transform: scaleY(1.1);
+}
+
+.city--name {
+    font-weight: lighter;
+    font-size: 30px;
+    margin-left: 25px;
+    transform: scaleY(1.1);
+    margin-top: -5px;
+}
+
+.time--title {
+    color: #A9A9A9;
+    font-weight: 100;
+    font-size: 12px;
+    margin-left: 25px;
+    margin-top: -10px;
+    transform: scaleY(1.1);
+}
+
+.info--block {
+    font-size: 12px;
+    margin-left: 25px;
+    position: absolute;
+    width: 300px;
+    height: 45px;
+}
+
+.google--maps {
+    color: #A9A9A9;
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: 78px;
+    margin-right: 110px;
+    white-space: nowrap;
+    text-decoration: underline;
+}
